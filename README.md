@@ -5,10 +5,10 @@
 - 💞️ I’m looking to collaborate on basically everything
 - 📫 bogdanovicmilan50@yahoo.com
 ---
-###You can find me on:
--[twitter](https://twitter.com/HerMilan94)
--[dribbble](https://dribbble.com/bogdanovic-94)
--[linkedIN](https://www.linkedin.com/in/bogdanovic-94/)
+### You can find me on:
+- [twitter](https://twitter.com/HerMilan94)
+- [dribbble](https://dribbble.com/bogdanovic-94)
+- [linkedIN](https://www.linkedin.com/in/bogdanovic-94/)
 
 Kind regards :)
 
