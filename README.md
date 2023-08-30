@@ -6,9 +6,9 @@
 - 📫 bogdanovicmilan50@yahoo.com
 ---
 ### You can find me on:
-- [twitter](https://twitter.com/HerMilan94)
-- [dribbble](https://dribbble.com/bogdanovic-94)
-- [linkedIN](https://www.linkedin.com/in/bogdanovic-94/)
+- [Twitter/X](https://twitter.com/HerMilan94)
+- [Dribbble](https://dribbble.com/bogdanovic-94)
+- [LinkedIN](https://www.linkedin.com/in/bogdanovic-94/)
 
 Kind regards :)
 
