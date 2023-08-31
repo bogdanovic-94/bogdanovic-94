@@ -2,7 +2,7 @@
 ## Welcome to my GitHub page.
 - 👀 I’m interested in web development and creative industry in general.
 - 🌱 I’m currently learning FrontEnd Development
-- 💞️ I’m looking to collaborate on basically everything
+- 💞️ I’m looking to collaborate on design and frontend development projects.
 - 📫 bogdanovicmilan50@yahoo.com
 ---
 ### You can find me on:
