@@ -1,4 +1,4 @@
-#👋 Hi, I’m Milan Bogdanovic
+# 👋 Hi, I’m Milan Bogdanovic
 ## Welcome to my GitHub page.
 - 👀 I’m interested in web development and creative industry in general.
 - 🌱 I’m currently learning FrontEnd Development
